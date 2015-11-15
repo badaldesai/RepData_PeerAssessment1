@@ -1,5 +1,8 @@
 # Reproducible Research: Peer Assessment 1
 
+```r
+knitr::opts_chunk$set(figs.path='figure/',warning=FALSE, message=FALSE)
+```
 
 ## Loading and preprocessing the data
 * The data is unzipped and loaded using the read.csv. 
